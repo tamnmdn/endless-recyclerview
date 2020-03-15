@@ -1,0 +1,3 @@
+rootProject.name='EndlessLib'
+include ':app'
+include ':endlessrecyclerview'
