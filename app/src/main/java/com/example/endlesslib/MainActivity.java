@@ -1,14 +1,13 @@
 package com.example.endlesslib;
 
+import android.os.Bundle;
+import android.os.Handler;
+import android.view.View;
+
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 
-import android.os.Bundle;
-import android.os.Handler;
-import android.util.Log;
-import android.view.View;
-
-import com.example.endlessrecyclerview.EndlessRecyclerView;
+import com.loadmore.EndlessRecyclerView;
 
 import java.util.ArrayList;
 import java.util.List;
